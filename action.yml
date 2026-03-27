@@ -4,5 +4,5 @@ runs:
   using: "composite"
   steps:
     - name: Run hello_world.sh
-      run: echo "Hello world!"
+      run: echo "Hello world! v1 tag"
       shell: bash

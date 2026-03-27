@@ -4,5 +4,5 @@ runs:
   using: "composite"
   steps:
     - name: Run hello_world.sh
-      run: echo "Hello world!"
+      run: echo "Oh, how dastardly, this isn't the v1 release..."
       shell: bash

@@ -4,5 +4,5 @@ runs:
   using: "composite"
   steps:
     - name: Run hello_world.sh
-      run: echo "Hello world!"
+      run: echo "They just don't make character code tables like they did when I was growing up..."
       shell: bash
